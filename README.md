@@ -12,7 +12,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek8076&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=abhishek8076&icon=1&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
