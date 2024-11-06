@@ -1,29 +1,33 @@
-# 💫 About Me:
-<div style="display: flex;
-            justify-content: center; align-item:center;"><b>		<h1>Hi 👋, I'm Abhishek</h1></b></div>
 
+# 👋 Hi, I'm Abhishek!
 
-                                                               
-   <b>🔭 I’m currently working on MERN projects<br/>
- <b> 🌱 I’m currently learning ReactJs & NodeJs<br/>
- <b> 💬 Ask me about ReactJs,  NodeJS & MERN<br/>
- <b>📫 How to reach me jhaabhishek8076@gmail.com<br/>
- <b>⚡ Fun fact I am funny.<br/>
-
+## 💫 About Me:
+- 🔭 I’m currently working on **SAP CAPM Development** with **UI5**.
+- 🌱 I’m actively learning more about **SAP Cloud Application Programming (CAP)** and enhancing my skills with **SAP Fiori/UI5**.
+- 💬 Ask me about **SAP CAPM**, **UI5**, **SAP Fiori**, **SAP BTP**, and **SAP Development**.
+- 📫 How to reach me: [jhaabhishek8076@gmail.com](mailto:jhaabhishek8076@gmail.com)
+- ⚡ Fun fact: I am known for my sense of humor and love for coding challenges.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhishek jha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsabhishekjhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0-abhishek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhaabhishek8076) 
+- [Facebook](https://facebook.com/abhishek.jha)
+- [Instagram](https://www.instagram.com/)
+- [LinkedIn](https://www.linkedin.com/in/abhishek-jha/)
+- [Twitter](https://twitter.com/)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishek8076&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek8076&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8076&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack:
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks/Libraries:** **SAP UI5**, **Fiori**, **SAP CAPM** (Cloud Application Programming Model)
+- **Backend Technologies:** Node.js, Express.js, **SAP Cloud SDK**
+- **Database:** SAP HANA, SQLite, MongoDB
+- **Version Control:** Git, GitHub
+- **Dev Tools:** SAP Web IDE, VS Code, Postman
+- **Deployment:** SAP BTP (Business Technology Platform), Cloud Foundry
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishek8076&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats:
 
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek8076&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## 🏆 GitHub Trophies:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Abhishek's Trophies](https://github-profile-trophy.vercel.app/?username=abhishek8076&theme=dracula&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
